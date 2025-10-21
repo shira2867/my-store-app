@@ -1,0 +1,8 @@
+.grid {
+    /* min-height: calc(100vh - 180px); */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    padding: 20px;
+}
