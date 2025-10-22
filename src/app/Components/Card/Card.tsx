@@ -1,7 +1,8 @@
 import React from "react";
 import styles from "./Card.module.css";
 
-type CardProps = {
+export  type CardProps = {
+    _id: string;
     image: string;
     title: string;
     description: string;
